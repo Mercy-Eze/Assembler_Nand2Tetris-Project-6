@@ -10,17 +10,13 @@ This README provides an overview of the project, including its objective, contra
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Objective](#objective)
 - [Contract](#contract-as-described-in-the-project)
 - [Test Programs](#test-programs-provided-by-the-project)
 - [Usage](#usage)
 - [File Structure](#file-structure)
 
-
-## Overview
-The assembler provided in this repository converts assembly code written in a specific format into machine code. It supports A-instructions (addressing instructions) and C-instructions (computation instructions) commonly found in assembly languages. The assembler translates each instruction into its binary equivalent based on predefined mnemonics and rules.
-
-Objective:
+## Objective
 The objective is to translate Hack assembly language programs into Hack binary code. This is a fundamental step in understanding how high-level code is deployed on target hardware platforms and how it can be optimized for better performance.
 
 ## Contract (as described in the Project)
