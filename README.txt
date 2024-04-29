@@ -1,4 +1,4 @@
-# Assembly Code Assembler
+_Hack Assembler_
 
 This is a simple assembly code assembler implemented in Python. It takes assembly code files (.asm) as input and generates corresponding machine code files (.hack)
 
